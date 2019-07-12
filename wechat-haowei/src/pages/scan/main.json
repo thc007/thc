@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "扫码支付",
+  "backgroundColor": "#fff",
+	"navigationStyle": "custom", 
+  "usingComponents": {
+    
+  }
+}

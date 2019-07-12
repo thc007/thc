@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/scan/main",
+    "pages/login/main",
+    "pages/overtimePay/main",
+    "pages/pay/main",
+    "pages/getbill/main",
+    "pages/orderDetail/orderdetail/main",
+    "pages/orderDetail/provisionalorder/main"
+		
+  ] ,  
+
+  "window": {	
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "欢迎使用人·车·位·生活",
+    "navigationBarTextStyle": "black",
+		"navigationStyle":"custom"
+  },
+	"permission": {
+	  "scope.userLocation": {
+	    "desc": "你的位置信息将用于小程序位置接口的效果展示"
+	 }
+	}
+}

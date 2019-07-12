@@ -1,0 +1,11 @@
+{
+ 
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "欢迎使用人.车.位.生活",
+    "navigationBarTextStyle": "black",
+		"navigationStyle":"custom", 
+    "usingComponents": {
+      "van-popup": "/static/vant/popup/index"
+  }
+}
